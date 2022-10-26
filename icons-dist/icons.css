@@ -46,19 +46,3 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-union:before {
     content: "\f10a";
 }
-
-.red {
-    color: red;
-}
-.blue {
-    color: blue;
-}
-.green {
-    color: green;
-}
-.orange {
-    color: orange;
-}
-.w-90 {
-    font-size: 90px;
-}
